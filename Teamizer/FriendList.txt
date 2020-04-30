@@ -1,0 +1,34 @@
+Pedro,Ceylon,8
+Pedro,Sancha,3
+Juan,Bancha,9
+Juan,Sancha,10
+Marta,Oolong,7
+OLIVIA,Assam,10
+RUBY,Ceylon,3
+EMILY,Earl Grey,9
+GRACE,Lapsang Souchong,10
+JESSICA,Darjeeling,9
+CHLOE,Sencha,3
+SOPHIE,Bancha,5
+LILY,Hojicha,4
+AMELIA,Gunpowder,7
+EVIE,Sencha,9
+MIA,Bancha,8
+ELLA,Hojicha,1
+CHARLOTTE,Sencha,0
+LUCY,Bancha,1
+MEGAN,Hojicha,6
+ELLIE,Sencha,1
+ISABELLE,Bancha,9
+ISABELLA,Hojicha,5
+HANNAH,Sencha,9
+KATIE,Lapsang Souchong,0
+AVA,Darjeeling,0
+HOLLY,Sencha,10
+SUMMER,Bancha,7
+MILLIE,Hojicha,8
+DAISY,Gunpowder,1
+PHOEBE,Sencha,1
+FREYA,Bancha,4
+ABIGAIL,Hojicha,1
+POPPY,Hojicha,8

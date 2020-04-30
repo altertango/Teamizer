@@ -1,0 +1,35 @@
+﻿<Window x:Class="Teamizer.MainWindow"
+        Icon="D:\Drive\Documentos\programacion\Csharp\repos\Teamizer\Teamizer\Icon.png"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Teamizer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="262.4">
+    <DockPanel>
+        <TextBlock DockPanel.Dock="Bottom" Height="20">About: </TextBlock>
+        <DockPanel DockPanel.Dock="left" Width="245">
+
+            <Border Height="30" DockPanel.Dock="Bottom" Background="GhostWhite" BorderBrush="Gainsboro" BorderThickness="2">
+
+
+                <StackPanel Orientation="Horizontal" >
+
+
+                    <Button Click="New_Button_Click"> New </Button>
+                    <Button Click="Delete_Button_Click"> Delete </Button>
+                    <Button Click="Rate_Button_Click"> Rate Tea </Button>
+                    <Button Click="Info_Button_Click">Info</Button>
+                    <Button Click="Party_Button_Click">Calculate Best Teas!</Button>
+
+
+                </StackPanel>
+            </Border>
+            <ListBox Name="LB1" SelectionMode="Extended">
+
+            </ListBox>
+        </DockPanel>
+
+    </DockPanel>
+</Window>
