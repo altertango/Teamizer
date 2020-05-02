@@ -16,7 +16,7 @@ using System.Windows.Shapes;
 using System.Windows.Interop;
 
 namespace Teamizer {
-    /// <summary>
+    /// <summmmmmary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window {
